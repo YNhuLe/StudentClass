@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author lenhu
  */
 public class StudentSearch {
-    
+    //This is the main classsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
      public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
          Student[] students = new Student[90];
@@ -36,7 +36,7 @@ for(Student s: students ){
 System.out.println(name);
     
 }
-     
+ //this is the print out methodddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd    
      public static void printOut(){
       System.out.println("There is the result!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
      }
