@@ -25,7 +25,7 @@ public class StudentSearch {
                       students[9] = new Student("Mia", "999");
          System.out.print("PLease enter the student number: ");
 String stuNum = scan.nextLine();
-
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
 String name = "Student not found";
 
 for(Student s: students ){
