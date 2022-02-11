@@ -12,7 +12,7 @@ public class StudentSearch {
     
      public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
-         Student[] students = new Student[10];
+         Student[] students = new Student[90];
         students[0] = new Student("Cindy", "111");
       students[1] = new Student("June", "222");
        students[2] = new Student("Jen", "333");
@@ -36,6 +36,10 @@ for(Student s: students ){
 System.out.println(name);
     
 }
+     
+     public static void printOut(){
+      System.out.println("There is the result!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+     }
 }
     
 
