@@ -19,6 +19,10 @@ public class PrintArray {
       swap(values,0,6);
          
 }
+    
+    public static void print(){
+     System.out.println("THis is the cahnge in the local repo");   
+    }
      public static void printArray(int[] values){
    for( int ele: values){      
        System.out.print(ele + " ");
