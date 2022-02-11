@@ -11,7 +11,7 @@ package studentclass;
 public class PrintArray {
     
     public static void main(String[] args){
-        int[] values = {7,2,3,4,5,6,1,8,9};
+        int[] values = {7,2,3,4,5,6,1,8,9, 10, 90, 100};
      //for( int element : values){
         // System.out.print(element + " ");
       printArray(values);   
