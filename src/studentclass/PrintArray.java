@@ -34,4 +34,9 @@ public class PrintArray {
          arr[j]=values[j];
          values[i]=temp;
          System.out.print(values[j]);
+}
+
+public static void printOupt(){
+    System.out.println("Print the different between 2 output");
+
 }}
